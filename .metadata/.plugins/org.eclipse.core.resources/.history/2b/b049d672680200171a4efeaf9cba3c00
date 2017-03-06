@@ -1,0 +1,86 @@
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="145" gr:y="135" id="sv1#page1" name="Home" landmark="true" layout:pageLayout="PureStyle/Default" layout:style="PureStyle" linkVisibilityPolicy="hide">
+  <ContentUnits>
+    <MultiMessageUnit gr:x="30" gr:y="0" id="sv1#page1#mssu1" name="About Me">
+      <Message xml:space="preserve">&lt;b&gt;My name is Kudakwashe Kidwell Chambwe, and I am a WeRatio Expert. Here is some information about me and my current projects. &lt;/b&gt;
+
+&lt;p&gt;About Me:&lt;/p&gt;
+
+&lt;blockquote&gt;I am an informatikk: programming and networks student at the University of Oslo.&lt;/blockquote&gt;
+
+&lt;p&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;List item 1&lt;/li&gt;
+&lt;li&gt;List item 2&lt;/li&gt;
+&lt;li&gt;List item 3&lt;/li&gt;
+&lt;/ol&gt;
+</Message>    </MultiMessageUnit>    <MultiMessageUnit gr:x="0" gr:y="80" id="sv1#page1#mssu3" name="General Information">      <Message xml:space="preserve">&lt;img src="Images/portrett.jpg" style="width:250px;height:250px;" &gt;</Message>
+    </MultiMessageUnit>
+  </ContentUnits>
+  <layout:Grid containerType="grid">
+    <layout:Row>
+      <layout:Cell colspan="12"/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="4">
+        <layout:Unit unitId="sv1#page1#mssu3">
+          <layout:LayoutParameter name="contentType" value="text/html" type="unit"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell colspan="6">
+        <layout:Unit unitId="sv1#page1#mssu1">
+          <layout:LayoutParameter name="contentType" value="text/html" type="unit"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell colspan="2"/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12"/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12"/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+  </layout:Grid>
+</Page>

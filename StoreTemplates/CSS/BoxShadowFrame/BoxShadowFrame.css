@@ -1,0 +1,151 @@
+.boxShadowFrameWrapper {
+  position: relative;
+  z-index: 1;
+}
+
+.boxShadowFrameWrapper h2 {
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+  font-size: 1.3em;  
+}
+	
+.boxShadowFrameSide {
+  position: relative;
+  background: #efefef;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  padding: 5px 10px;
+  color: rgba(0,0,0, .8);
+  text-shadow: 0 1px 0 #fff;
+  margin: 10px;   
+}
+
+.boxShadowFrameSide:before, .boxShadowFrameSide:after {
+  z-index: -1;   
+  position: absolute; 
+  content: "";
+  bottom: 15px;
+  left: 10px;
+  width: 50%; 
+  top: 80%;
+  background: rgba(0, 0, 0, 0.7); 
+  -webkit-box-shadow: 0 15px 10px rgba(0,0,0, 0.7);   
+  -moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+  -webkit-transform: rotate(-3deg);    
+  -moz-transform: rotate(-3deg);   
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+
+.boxShadowFrameSide:after {
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  transform: rotate(3deg);
+  right: 10px;
+  left: auto;
+}	
+
+.boxShadowFrameSimple {
+  position: relative;
+  background: #efefef;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  padding: 5px 10px;
+  color: rgba(0,0,0, .8);
+  text-shadow: 0 1px 0 #fff;
+  margin: 10px;   
+  -webkit-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.boxShadowFrameVertical {
+  position: relative;
+  background: #efefef;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  padding: 5px 10px;
+  color: rgba(0,0,0, .8);
+  text-shadow: 0 1px 0 #fff;
+  margin: 10px;   
+}
+
+.boxShadowFrameVertical:before { 
+  z-index: -1;
+  position: absolute; 
+  content: "";
+  top: 10px;
+  bottom: 10px;
+  left: 0px;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7); 
+  -webkit-box-shadow:0 0 15px rgba(0,0,0,0.6);
+  -moz-box-shadow:0 0 15px rgba(0,0,0,0.6);
+  box-shadow:0 0 15px rgba(0,0,0,0.6);
+  -moz-border-radius:10px / 100px;
+  border-radius:10px / 100px;
+}
+
+.boxShadowFrameHorizontal {
+  position: relative;
+  background: #efefef;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  padding: 5px 10px;
+  color: rgba(0,0,0, .8);
+  text-shadow: 0 1px 0 #fff;
+  margin: 10px;   
+}
+
+.boxShadowFrameHorizontal:before { 
+  z-index: -1;
+  position: absolute; 
+  content: "";
+  top: 1px;
+  bottom: 1px;
+  left: 10px;
+  right: 10px;  
+  background: rgba(0, 0, 0, 0.7); 
+  -webkit-box-shadow:0 0 15px rgba(0,0,0,0.6);
+  -moz-box-shadow:0 0 15px rgba(0,0,0,0.6);
+  box-shadow:0 0 15px rgba(0,0,0,0.6);
+  -moz-border-radius:10px / 100px;
+  border-radius:10px / 100px;
+}
+
+.boxShadowFrameRotate {
+  position: relative;
+  background: #eee;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  padding: 5px 10px;
+  color: rgba(0,0,0, .8);
+  text-shadow: 0 1px 0 #fff;
+  margin: 10px;
+  -webkit-box-shadow:none;
+  -moz-box-shadow:none;
+  box-shadow:none;
+  -webkit-transform:rotate(-3deg);    
+  -moz-transform:rotate(-3deg);   
+  -ms-transform:rotate(-3deg);
+  -o-transform:rotate(-3deg);
+  transform:rotate(-3deg);
+}
+
+.boxShadowFrameRotate > :first-child:before {
+  content:"";
+  position:absolute;
+  z-index:-1;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  background:#fff;
+  -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+

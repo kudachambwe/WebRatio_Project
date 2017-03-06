@@ -1,0 +1,14 @@
+<Job xmlns:gr="http://www.webratio.com/2006/WebML/Graph" id="wsv2#job1" name="Create Products" gr:x="100" gr:y="60">
+  <OperationUnits>
+    <InitJobUnit id="wsv2#job1#iju1" name="Init" gr:x="0" gr:y="0">
+      <OKLink id="wsv2#job1#iju1#oln1" name="OKLink2" to="wsv2#job1#gxu1"/>
+    </InitJobUnit>
+    <GetXMLUnit id="wsv2#job1#gxu1" name="Get User" gr:x="130" gr:y="0" sourceType="static" url="Users.xml">
+      <OKLink id="wsv2#job1#gxu1#oln2" name="OKLink3" to="wsv2#job1#xiu1" automaticCoupling="true"/>
+    </GetXMLUnit>
+    <XMLInUnit id="wsv2#job1#xiu1" name="Create Users" gr:x="260" gr:y="0" oldDocStyle="false">
+      <XMLInEntity id="wsv2#job1#xiu1#xie1" name="User" updatePolicy="noAction" useNames="true" deleteAllBefore="true" entity="ent1" keyAttributes="ent1#att1"/>
+    </XMLInUnit>
+  </OperationUnits>
+  <Trigger id="wsv2#job1#trg1" name="On Startup" schedulePolicy="startup"/>
+</Job>

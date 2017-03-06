@@ -1,0 +1,39 @@
+[05 Mar 2017 14:24:09] DEBUG Executing SQL script
+[05 Mar 2017 14:24:09] INFO ================================================================================
+[05 Mar 2017 14:24:09] INFO outputPath= '/Users/Google Drive/WebRatio/MyPage/.Temp~/UpdateSQL.xml'
+[05 Mar 2017 14:24:09] INFO onError= 'stop'
+[05 Mar 2017 14:24:09] INFO statementSeparator= ';'
+[05 Mar 2017 14:24:09] INFO derby.system.home= '/Users/Google Drive/WebRatio/.metadata/.plugins/com.webratio.commons.db/derby'
+[05 Mar 2017 14:24:09] INFO password= '2CEACAED'
+[05 Mar 2017 14:24:09] INFO url= 'jdbc:mysql://34.251.9.128:3306/freeapp14'
+[05 Mar 2017 14:24:09] INFO username= 'freeapp14'
+[05 Mar 2017 14:24:09] INFO autoCommit= 'false'
+[05 Mar 2017 14:24:09] INFO outputLogPath= '/Users/Google Drive/WebRatio/MyPage/.Temp~/UpdateSQL.xml.log'
+[05 Mar 2017 14:24:09] INFO driverClass= 'com.mysql.jdbc.Driver'
+[05 Mar 2017 14:24:09] INFO encoding= ''
+[05 Mar 2017 14:24:09] INFO eventSocketPort= '49398'
+[05 Mar 2017 14:24:09] INFO sqlScript= '/Users/Google Drive/WebRatio/MyPage/.Temp~/UpdateSQL.sql'
+[05 Mar 2017 14:24:09] INFO ================================================================================
+[05 Mar 2017 14:24:09] INFO Connecting to the Database...
+[05 Mar 2017 14:24:10] INFO Database connection estabilished
+[05 Mar 2017 14:24:10] INFO transaction isolation: 4
+[05 Mar 2017 14:24:10] DEBUG ================================================================================
+[05 Mar 2017 14:24:10] DEBUG Executing SQL script file: /Users/Google Drive/WebRatio/MyPage/.Temp~/UpdateSQL.sql
+[05 Mar 2017 14:24:10] DEBUG Executing statement:  create table `group_4` ( `oid`  integer  not null, `groupname`  varchar(255), primary key (`oid`) )
+[05 Mar 2017 14:24:10] DEBUG Executing statement:    create table `module_4` ( `oid`  integer  not null, `moduleid`  varchar(255), `modulename`  varchar(255), primary key (`oid`) )
+[05 Mar 2017 14:24:10] DEBUG Executing statement:    create table `user_4` ( `oid`  integer  not null, `username`  varchar(255), `password`  varchar(255), `email`  varchar(255), primary key (`oid`) )
+[05 Mar 2017 14:24:10] DEBUG Executing statement:    create table `kuda_course` ( `course_id`  varchar(255)  not null, `course_name`  varchar(255), `course_year`  varchar(255), primary key (`course_id`) )
+[05 Mar 2017 14:24:10] DEBUG Executing statement:    alter table `group_4`  add column  `module_4_oid`  integer
+[05 Mar 2017 14:24:10] DEBUG Executing statement:  alter table `group_4`   add index fk_group_4_module_4 (`module_4_oid`), add constraint fk_group_4_module_4 foreign key (`module_4_oid`) references `module_4` (`oid`)
+[05 Mar 2017 14:24:11] DEBUG Executing statement:    create table `group_module_4` ( `group_4_oid`  integer not null, `module_4_oid`  integer not null, primary key (`group_4_oid`, `module_4_oid`) )
+[05 Mar 2017 14:24:11] DEBUG Executing statement:  alter table `group_module_4`   add index fk_group_module_4_group_4 (`group_4_oid`), add constraint fk_group_module_4_group_4 foreign key (`group_4_oid`) references `group_4` (`oid`)
+[05 Mar 2017 14:24:11] DEBUG Executing statement:  alter table `group_module_4`   add index fk_group_module_4_module_4 (`module_4_oid`), add constraint fk_group_module_4_module_4 foreign key (`module_4_oid`) references `module_4` (`oid`)
+[05 Mar 2017 14:24:11] DEBUG Executing statement:    alter table `user_4`  add column  `group_4_oid`  integer
+[05 Mar 2017 14:24:11] DEBUG Executing statement:  alter table `user_4`   add index fk_user_4_group_4 (`group_4_oid`), add constraint fk_user_4_group_4 foreign key (`group_4_oid`) references `group_4` (`oid`)
+[05 Mar 2017 14:24:11] DEBUG Executing statement:    create table `user_group_4` ( `user_4_oid`  integer not null, `group_4_oid`  integer not null, primary key (`user_4_oid`, `group_4_oid`) )
+[05 Mar 2017 14:24:11] DEBUG Executing statement:  alter table `user_group_4`   add index fk_user_group_4_user_4 (`user_4_oid`), add constraint fk_user_group_4_user_4 foreign key (`user_4_oid`) references `user_4` (`oid`)
+[05 Mar 2017 14:24:12] DEBUG Executing statement:  alter table `user_group_4`   add index fk_user_group_4_group_4 (`group_4_oid`), add constraint fk_user_group_4_group_4 foreign key (`group_4_oid`) references `group_4` (`oid`)
+[05 Mar 2017 14:24:12] DEBUG ================================================================================
+[05 Mar 2017 14:24:13] DEBUG SQL SCRIPT SUCCESSFULLY EXECUTED
+[05 Mar 2017 14:24:14] INFO Database connection closed
+[05 Mar 2017 14:24:14] DEBUG Total time: 5229 milliseconds

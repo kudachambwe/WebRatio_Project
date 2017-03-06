@@ -1,0 +1,92 @@
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="205" gr:y="135" id="sv1#page1" name="About Me" landmark="true" layout:pageLayout="WebRatio/Basic" layout:style="WebRatio" linkVisibilityPolicy="hide">
+  <ContentUnits>
+    <MultiMessageUnit gr:x="30" gr:y="0" id="sv1#page1#mssu1" name="About Me">
+      <Message xml:space="preserve">My name is Kudakwashe Kidwell Chambwe, and I am a WeRatio Expert. Here is some information about me and my current projects. </Message>
+    </MultiMessageUnit>
+    <MultiMessageUnit gr:x="0" gr:y="80" id="sv1#page1#mssu3" name="General Information">
+      <Message xml:space="preserve">&lt;img src="Images/portrett.jpg" style="width:250px;height:250px;" &gt;</Message>
+    </MultiMessageUnit>
+    <IndexUnit gr:x="30" gr:y="155" id="sv1#page1#inu1" name="Short Info" entity="User"/>
+    <EntryUnit gr:x="140" gr:y="210" id="sv1#page1#enu1" name="Info" entity="User">
+      <Field id="sv1#page1#enu1#fld1" name="userName" type="string" modifiable="true" attribute="userName"/>
+      <Field id="sv1#page1#enu1#fld2" name="password" type="password" modifiable="true" attribute="password"/>
+      <Field id="sv1#page1#enu1#fld3" name="email" type="string" modifiable="true" attribute="email"/>
+      <SelectionField id="sv1#page1#enu1#sfld1" name="defaultGroup" type="string" role="User2DefaultGroup"/>
+      <MultiSelectionField id="sv1#page1#enu1#msfld1" name="groups" type="string" role="User2Group"/>
+    </EntryUnit>
+  </ContentUnits>
+  <layout:Grid containerType="grid">
+    <layout:Row>
+      <layout:Cell colspan="12">
+        <layout:Unit unitId="sv1#page1#mssu1"/>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12">
+        <layout:Unit unitId="sv1#page1#mssu3">
+          <layout:LayoutParameter name="contentType" value="text/html" type="unit"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12">
+        <layout:Unit unitId="sv1#page1#inu1"/>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12">
+        <layout:Unit unitId="sv1#page1#enu1">
+          <layout:Field field="sv1#page1#enu1#fld1"/>
+          <layout:Field field="sv1#page1#enu1#fld2"/>
+          <layout:Field field="sv1#page1#enu1#fld3"/>
+          <layout:Field field="sv1#page1#enu1#sfld1"/>
+          <layout:Field field="sv1#page1#enu1#msfld1"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+  </layout:Grid>
+</Page>

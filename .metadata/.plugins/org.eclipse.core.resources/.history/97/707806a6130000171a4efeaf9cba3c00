@@ -1,0 +1,3 @@
+<SiteView xmlns:layout="http://www.webratio.com/2006/WebML/Layout" id="sv1" name="HomePage" homePage="sv1#page1" landmarks="sv1#page1 sv1#area2 sv1#area3 sv1#page3" layout:style="WebRatio" layout:pageLayout="WebRatio/Basic">
+  <OperationUnits/>
+</SiteView>

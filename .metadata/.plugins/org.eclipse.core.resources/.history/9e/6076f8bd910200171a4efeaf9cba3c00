@@ -1,0 +1,123 @@
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="160" gr:y="150" id="sv1#page1" name="Home" landmark="true" layout:pageLayout="PureStyle/Default" layout:style="PureStyle" linkVisibilityPolicy="hide">
+  <ContentUnits/>
+  <layout:Grid containerType="grid">
+    <layout:Row>
+      <layout:Cell colspan="12"/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12"/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12">
+        <layout:SubPage pageId="sv1#page1#page6">
+          <layout:Grid containerType="grid">
+            <layout:Row>
+              <layout:Cell colspan="12"/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+              <layout:Cell/>
+            </layout:Row>
+          </layout:Grid>
+        </layout:SubPage>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell/>
+      <layout:Cell colspan="3">
+        <layout:Unit unitId="sv1#page1#page6#mssu2">
+          <layout:LayoutParameter name="contentType" value="text/html" type="unit"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell colspan="8">
+        <layout:Unit unitId="sv1#page1#page6#mssu7">
+          <layout:LayoutParameter name="contentType" value="text/html" type="unit"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12"/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+  </layout:Grid>
+  <Page gr:x="0" gr:y="0" id="sv1#page1#page6" name="InnerPage">
+    <ContentUnits>
+      <MultiMessageUnit id="sv1#page1#page6#mssu2" name="Portrett" gr:x="10" gr:y="0">
+        <Message xml:space="preserve">&lt;img src="Images/portrett.jpg" style="width:260px;height:260px;" &gt;</Message>
+      </MultiMessageUnit>
+      <MultiMessageUnit id="sv1#page1#page6#mssu7" name="About Me" gr:x="0" gr:y="70">
+        <Message xml:space="preserve">
+
+&lt;div style="background-color:Peru;color:white;padding:20px;"&gt;
+  &lt;h2&gt;Kudakwashe Kidwell Chambwe&lt;/h2&gt;
+  &lt;p&gt;My name is Kudakwashe Kidwell Chambwe, and I am a WeRatio Expert. Here is some information about me and my current projects.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style="background-color:SlateGrey;color:white;padding:20px;"&gt;
+&lt;h3&gt;About me&lt;/h3&gt;
+    &lt;/p&gt;
+  &lt;p&gt;I'm a Computer Science student at the University of Oslo, with a specialization in Software Engineering and Imnformation Systems. &lt;/p&gt;
+&lt;/div&gt;</Message>
+      </MultiMessageUnit>
+    </ContentUnits>
+  </Page>
+</Page>

@@ -1,0 +1,20 @@
+#?delimiters [%, %], [%=, %]
+<wr:LayoutParameter label="Effect" name="effect" type="enum" values="simple|side|vertical|horizontal" default="side">
+Defines the effects to apply
+</wr:LayoutParameter>
+
+[%
+	setHTMLOutput()
+	import org.apache.commons.lang.StringUtils
+	def effectType = StringUtils.capitalize(params["effect"])
+	println effectType
+%]
+
+<wr:RequireResource ref="BoxShadow-style" />
+
+<div class="boxShadowFrameWrapper">
+	<div class="boxShadowFrame[%= effectType %]">
+		<h2><wr:FrameTitle/></h2>
+		<wr:FrameContent/>
+	</div>
+</div>

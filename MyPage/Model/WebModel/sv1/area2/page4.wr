@@ -1,0 +1,17 @@
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="0" gr:y="135" id="sv1#area2#page4" name="Experiences" landmark="true">
+  <ContentUnits>
+    <MultiMessageUnit gr:x="0" gr:y="0" id="sv1#area2#page4#mssu5" name="Info">
+      <Message xml:space="preserve">&lt;div style="background-color:lightslategrey;color:white;padding:20px;"&gt;
+  &lt;h2&gt; Experiences:&lt;/h3&gt;
+&lt;/div&gt; 
+
+
+&lt;div style="background-color:Lightcoral;color:white;padding:20px;"&gt;
+  &lt;p&gt; &lt;b&gt; Here are my previous jobs:&lt;/b&gt; &lt;/p&gt;
+  &lt;ul&gt;
+  	&lt;li&gt;Sales at Viasat Norway&lt;/li&gt;
+  	&lt;li&gt;Sales at Skeidar Oslo&lt;/li&gt;
+  	&lt;li&gt;Teaching Assistant at University of Oslo&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt; 
+</Message>    </MultiMessageUnit>  </ContentUnits>  <layout:Grid containerType="grid">    <layout:Row>      <layout:Cell colspan="12">        <layout:Unit unitId="sv1#area2#page4#mssu5">          <layout:LayoutParameter name="contentType" value="text/html" type="unit"/>        </layout:Unit>      </layout:Cell>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>      <layout:Cell/>    </layout:Row>  </layout:Grid></Page>

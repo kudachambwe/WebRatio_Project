@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layout>
+  <Resources>
+    <Resource name="BoxShadow-style" path="CSS/BoxShadowFrame/BoxShadowFrame.css" type="css"/>
+  </Resources>
+</Layout>

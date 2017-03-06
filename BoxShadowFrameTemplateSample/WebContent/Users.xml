@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Users>
+  	<Instance>
+      <name>John</name>
+      <surname>Doe</surname>
+      <email>John.Doe@sample.com</email>
+      <country>USA</country>
+    </Instance>
+    <Instance>
+      <name>Scott</name>
+      <surname>Tiger</surname>
+      <email>scott.tiger@sample.com</email>
+      <country>United Kindom</country>
+    </Instance>
+    <Instance>
+      <name>Ronald</name>
+      <surname>Steel</surname>
+      <email>ronald.steel@sample.com</email>
+      <country>USA</country>
+    </Instance>     
+  </Users>
+</Root>

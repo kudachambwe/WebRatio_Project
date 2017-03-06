@@ -1,0 +1,36 @@
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="10" gr:y="0" id="sv1#area3#page9" name="Course Add" landmark="true">
+  <ContentUnits>
+    <EntryUnit gr:x="0" gr:y="0" id="sv1#area3#page9#enu2" name="Add Courses" entity="ent1" linkOrder="sv1#area3#page9#enu2#ln1">
+      <Link id="sv1#area3#page9#enu2#ln1" name="Add" to="sv1#cru1" type="normal" validate="true">
+        <LinkParameter id="sv1#area3#page9#enu2#ln1#par1" name="Key [course_id]_course_id" source="key.ent1#att1" target="sv1#cru1.ent1#att1"/>
+        <LinkParameter id="sv1#area3#page9#enu2#ln1#par2" name="course_name_course_name" source="sv1#area3#page9#enu2#fld4" target="sv1#cru1.ent1#att2"/>
+        <LinkParameter id="sv1#area3#page9#enu2#ln1#par3" name="course_year_course_year" source="sv1#area3#page9#enu2#fld5" target="sv1#cru1.ent1#att3"/>
+        <LinkParameter id="sv1#area3#page9#enu2#ln1#par4" name="kuda_course Object_kuda_course Object" source="entityBean" target="sv1#cru1.entityBeans"/>
+      </Link>
+      <Field id="sv1#area3#page9#enu2#fld4" name="course_name" type="string" modifiable="true" attribute="ent1#att2"/>
+      <Field id="sv1#area3#page9#enu2#fld5" name="course_year" type="string" modifiable="true" attribute="ent1#att3"/>
+    </EntryUnit>
+  </ContentUnits>
+  <layout:Grid containerType="grid">
+    <layout:Row>
+      <layout:Cell colspan="12">
+        <layout:Unit unitId="sv1#area3#page9#enu2">
+          <layout:Link link="sv1#area3#page9#enu2#ln1"/>
+          <layout:Field field="sv1#area3#page9#enu2#fld4"/>
+          <layout:Field field="sv1#area3#page9#enu2#fld5"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+  </layout:Grid>
+</Page>

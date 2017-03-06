@@ -1,0 +1,31 @@
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" id="sv1#page2" name="Course View" landmark="true" gr:x="15" gr:y="305">
+  <ContentUnits>
+    <PowerIndexUnit id="sv1#page2#pwu1" name="Courses" gr:x="0" gr:y="0" sortable="true" checkable="false" useCountQuery="false" entity="ent1" displayAttributes="ent1#att2 ent1#att3" linkOrder="sv1#page2#pwu1#ln6">
+      <Link id="sv1#page2#pwu1#ln6" name="Delete " to="sv1#dlu1" type="normal" validate="true">
+        <LinkParameter id="sv1#page2#pwu1#ln6#par6" name="course_id_KeyCondition1 [course_id]" source="data[].ent1#att1" target="sv1#dlu1#su2#kcond1.ent1#att1"/>
+      </Link>
+    </PowerIndexUnit>
+  </ContentUnits>
+  <layout:Grid containerType="grid">
+    <layout:Row>
+      <layout:Cell colspan="12">
+        <layout:Unit unitId="sv1#page2#pwu1">
+          <layout:Attribute attribute="ent1#att2"/>
+          <layout:Attribute attribute="ent1#att3"/>
+          <layout:Link link="sv1#page2#pwu1#ln6"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+  </layout:Grid>
+</Page>
