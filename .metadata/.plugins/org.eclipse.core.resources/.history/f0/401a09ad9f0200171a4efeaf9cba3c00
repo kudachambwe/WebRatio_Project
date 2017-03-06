@@ -2,7 +2,7 @@
   <ContentUnits>
     <MultiMessageUnit gr:x="0" gr:y="0" id="sv1#area2#page7#mssu8" name="Info">
       <Message xml:space="preserve">
-&lt;div style="background-color:silver;color:black;padding:20px;"&gt;
+&lt;div style="background-color:silver;color:lightseagreen;padding:20px;"&gt;
   &lt;h1&gt; Hobbies:&lt;/h1&gt;
 &lt;/div&gt; 
 

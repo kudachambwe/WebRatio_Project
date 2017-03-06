@@ -63,12 +63,12 @@
       <layout:Cell/>
     </layout:Row>
     <layout:Row>
-      <layout:Cell/>
-      <layout:Cell colspan="10">
+      <layout:Cell colspan="12">
         <layout:Unit unitId="sv1#page3#page10#mssu9">
           <layout:LayoutParameter name="contentType" value="text/html" type="unit"/>
         </layout:Unit>
       </layout:Cell>
+      <layout:Cell/>
       <layout:Cell/>
       <layout:Cell/>
       <layout:Cell/>
@@ -108,7 +108,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td class="tg-j2zy"&gt; Kudakwashe Kidwell Chambwe &lt;/td&gt;
-    &lt;td class="tg-j2zy"&gt; (+47) 948 35 563  &lt;/td&gt;
+    &lt;td class="tg-j2zy"&gt; (+47) 94835563  &lt;/td&gt;
     &lt;td class="tg-j2zy"&gt; &lt;a href="mailto:kkchambwe@gmail.com"&gt; Mail &lt;/a&gt; &lt;/td&gt;
     &lt;td class="tg-j2zy"&gt; &lt;a href="http://linkedin.com/in/kkchambwe"&gt; Linkedin &lt;/a&gt; &lt;/td&gt;
     &lt;td class="tg-j2zy"&gt; &lt;adress&gt; &#216;stensj&#248;veien 81G, 0667 Oslo &lt;br&gt; &lt;/adress&gt; &lt;/td&gt;
