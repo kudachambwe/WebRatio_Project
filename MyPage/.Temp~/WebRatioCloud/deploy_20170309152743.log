@@ -1,0 +1,792 @@
+[2017-03-09 15:27:43] Uploading application on server [34.251.197.246]
+[2017-03-09 15:27:43] Computing changes...
+[2017-03-09 15:27:45] Found 785 file(s) changed
+[2017-03-09 15:27:45] --------------------------------------------
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/pdf.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ko.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/connectors/test.html
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/dialog_opera.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/bmp.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/properties.png
+[2017-03-09 15:27:45] ADD                     /builtin/960_Fluid_Nestable_12.css
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/cru1.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/wink_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/cry_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/sad_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/heart.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-io.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/envelope.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/gu.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-bg.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_h6.png
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-en.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/images/hiddenfield.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-sk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/angry_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/editor_ie8.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/a11yhelp.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/xalan.jar
+[2017-03-09 15:27:45] ADD                     /Resources/parent_level.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/vsd.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/pt.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/magicline/images/icon.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/pt.js
+[2017-03-09 15:27:45] ADD                     /wr-css/menu.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/js/fckxml.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/nb.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/et.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/standard-taglib.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/mdb.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/swt.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/struts-taglib.jar
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page1.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/WRLogo50.png
+[2017-03-09 15:27:45] ADD                     /.StoreMapping
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page5.link.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/jpg.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-eo.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/antlr.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/pl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/es.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/pastefromword/filter/default.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/lock-open.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/it.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/pl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-sq.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/fakeobjects/images/spacer.gif
+[2017-03-09 15:27:45] ADD                     /page4.jsp
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/slf4j-log4j12.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/arrow.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/bg.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/flash/dialogs/flash.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/ug.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/jquery-ui-timepicker-addon.css
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-cs.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/doc.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-he.js
+[2017-03-09 15:27:45] ADD                     /Resources/PowerIndex.Last.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/js/common.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-bg.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/el.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-da.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/link/dialogs/anchor.js
+[2017-03-09 15:27:45] ADD                     /Resources/minus.png
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/navigate_right_10.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-km.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/heart.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-hu.js
+[2017-03-09 15:27:45] ADD                     /Resources/sub_level.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/conf/RTXConfig.properties
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/da.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/enu2.descr
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jempbox.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ta.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page9.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/doc.gif
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/pwu3.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/frmactualfolder.html
+[2017-03-09 15:27:45] ADD                     /WRGenericExpire.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-hu.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.units.ws.jar
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Group.java
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/tongue_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/txt.gif
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page3.link.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/wsc/dialogs/wsc_ie.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/dom4j.jar
+[2017-03-09 15:27:45] ADD                     /WebRatio_Default.error.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-uk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/specialchar.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/de.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/vi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-fr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/browser.html
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-sv.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_job.manager.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/images/dialog_sides.png
+[2017-03-09 15:27:45] ADD                     /Resources/delete.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.debug.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/protection.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/_translationstatus.txt
+[2017-03-09 15:27:45] ADD                     /Resources/assign_disabled.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/cs.js
+[2017-03-09 15:27:45] ADD                     /page9.jsp
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/oro.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/whatchutalkingabout_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/html.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/km.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/ko.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-id.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/png.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/omg_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ug.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jstl.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/sv.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/embaressed_smile.gif
+[2017-03-09 15:27:45] ADD                     /Resources/HierarchicalIndex.First.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/es.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Course.class
+[2017-03-09 15:27:45] ADD                     /Resources/plus.png
+[2017-03-09 15:27:45] ADD                     /page5.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/thumbs_up.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_h2.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/ku.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/dll.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/mdb.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-validator.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-et.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ka.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/en.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/jquery-ui.min.js
+[2017-03-09 15:27:45] ADD                     /Resources/update.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/dialogs/button.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/conf/StrutsLogConfig.properties
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/fr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/ar.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/no.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ms.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-lt.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-it.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-sr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/mk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/link/images/hidpi/anchor.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/embarrassed_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-nl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/eo.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/jquery-ui.min.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-fi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/pt-br.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/dialog.css
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/sort_descending.png
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Module.class
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page2.descr
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/stax-api.jar
+[2017-03-09 15:27:45] ADD                     /builtin/grid_responsive.css
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/fckeditor.properties
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/frmresourceslist.html
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/editor_iequirks.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ml.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-tj.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/wsc/README.md
+[2017-03-09 15:27:45] ADD                     /Resources/Scroller.Next.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/broken_heart.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-be.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/dialogs/textfield.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_h1.png
+[2017-03-09 15:27:45] ADD                     /Resources/assign.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-cy.js
+[2017-03-09 15:27:45] ADD                     /Resources/HierarchicalIndex.Previous.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-hi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-de.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/slf4j-api.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/nl.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/ln1.descr
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page4.link.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/gif.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/fr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/fr-ca.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/dialogs/hiddenfield.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/js.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/ai.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/lt.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/km.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/scayt/README.md
+[2017-03-09 15:27:45] ADD                     /Resources/multicheckClear.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-lv.js
+[2017-03-09 15:27:45] ADD                     /builtin/grid_responsive_12.css
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/itext-rtf.jar
+[2017-03-09 15:27:45] ADD                     /wr-images/home_bc.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/confused_smile.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/hibernate.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/templates/templates/images/template1.gif
+[2017-03-09 15:27:45] UPDATE                  /index.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/hr.js
+[2017-03-09 15:27:45] ADD                     /wrdefault/images/database.png
+[2017-03-09 15:27:45] ADD                     /wr-js/respond.min.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/thumbs_up.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/bmp.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/sr.js
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/dialog-max.png
+[2017-03-09 15:27:45] ADD                     /wr-js/responsive-menu.js
+[2017-03-09 15:27:45] ADD                     /Resources/favicon.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/editor_ie7.css
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_xsd.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/zh-cn.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/mssu2.descr
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.units.validation.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/devil_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/id.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/fa.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/wink_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/cry_smile.gif
+[2017-03-09 15:27:45] ADD                     /builtin/grid_responsive_16.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/hidpi/refresh.png
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_i18n.descr
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/enu1.descr
+[2017-03-09 15:27:45] ADD                     /wr-images/logo_big.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/h2.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/omg_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/sq.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Course.hbm.xml
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-icons_cd0a0a_256x240.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/scayt/dialogs/toolbar.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/sq.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/ku.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-am.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/af.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/mssu5.descr
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-digester.jar
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jaxen.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/find/dialogs/find.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/fr-ca.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/bg.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Group.hbm.xml
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-bs.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/ai.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/mp3.gif
+[2017-03-09 15:27:45] ADD                     /PureStyle/css/app.css
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.units.session.jar
+[2017-03-09 15:27:45] ADD                     /Resources/delete_dis.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/cs.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/thumbs_down.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery/jquery.min.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/tr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/angel_smile.gif
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/dialog-close.png
+[2017-03-09 15:27:45] ADD                     /Resources/Scroller.Last.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-lang.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/regular_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ka.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Course.java
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/uk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/dialog_ie7.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/mn.js
+[2017-03-09 15:27:45] ADD                     /WRResources/localization.png
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-ja.js
+[2017-03-09 15:27:45] ADD                     /wrdefault/js/excanvas.min.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/is.js
+[2017-03-09 15:27:45] ADD                     /Resources/unassign.png
+[2017-03-09 15:27:45] ADD                     /Resources/HierarchicalIndex.Last.png
+[2017-03-09 15:27:45] ADD                     /wr-css/units.css
+[2017-03-09 15:27:45] ADD                     /Resources/diagram.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/si.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/km.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/it.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_job.scheduler.xml
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/mssu7.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/lv.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/ar.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/dialogs/radio.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/link/images/anchor.png
+[2017-03-09 15:27:45] ADD                     /builtin/960_Fluid_Nestable_24.css
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/itext.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/cy.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/Folder.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/images/sprites.png
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_blob.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/pt-br.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/avi.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jcommon.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-hy.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/gl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/zh-cn.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_job.scheduler.descr
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jackson-databind.jar
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/log4j.jar
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page9.link.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/mn.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/editor_ie.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-hr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/default.icon.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/fa.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ru.js
+[2017-03-09 15:27:45] ADD                     /PureStyle/images/logo-wr.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.commons.transform.jar
+[2017-03-09 15:27:45] ADD                     /WRGenericError.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/styles.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/hr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-es.js
+[2017-03-09 15:27:45] ADD                     /PureStyle/css/components.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/hi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/sq.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/contents.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-no.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-no.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-is.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/hu.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/Folder32.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/jpg.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-lt.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/xls.gif
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/User.hbm.xml
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-th.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/webratio/wr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ru.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.rtx.extras.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-sk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/wsc/dialogs/tmp.html
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/dialog_ie7.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/cs.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/de.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/db2.hibernate.cfg.xml
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/iframe/dialogs/iframe.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/html.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-icons_454545_256x240.png
+[2017-03-09 15:27:45] ADD                     /Resources/update_dis.png
+[2017-03-09 15:27:45] ADD                     /builtin/960_Fluid_Nestable_16.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-da.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/sk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/spacer.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/zip.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/lucene-core.jar
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Module.java
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-fa.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/et.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/fckeditor.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/WRLogo8.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/mimepull.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/swf.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-af.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/bs.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-zh.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/mp3.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ar.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/iframe/images/placeholder.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/pt-br.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/log4j.properties
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Module.hbm.xml
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-tr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/default.icon.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/fr-ca.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/close.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/templates/dialogs/templates.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/angel_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-icons_2e83ff_256x240.png
+[2017-03-09 15:27:45] ADD                     /Images/portrett.jpg
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.units.operation.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/wsc/dialogs/tmpFrameset.html
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.units.utility.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-az.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/et.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/zh.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/ug.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/ppt.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/ro.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/icons.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-gl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-nb.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/teeth_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/no.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/image/dialogs/image.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/fi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/frmcreatefolder.html
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page8.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_address.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/rdp.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/wsdl4j.jar
+[2017-03-09 15:27:45] ADD                     /wrdefault/images/database_updated.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-collections.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ca.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/en-gb.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/magicline/images/hidpi/icon.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/fi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/nb.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/frmupload.html
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/wsc/dialogs/wsc.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_pre.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/refresh.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-sv.js
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/selectAll.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.commons.libs.jar
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/conf/struts-config.xml
+[2017-03-09 15:27:45] ADD                     /PureStyle/js/app.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/vi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-id.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/mk.js
+[2017-03-09 15:27:45] ADD                     /builtin/grid_elements.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/tr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/pt.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_model.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/dialog_ie.css
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jfreechart.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/images/toolbar_start.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/icons_hidpi.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/sv.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/config.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/envelope.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/editor.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-icons_888888_256x240.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/vi.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/javassist.jar
+[2017-03-09 15:27:45] ADD                     /wrdefault/css/bpm.css
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page5.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/pdf.gif
+[2017-03-09 15:27:45] ADD                     /Resources/delete_gray.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/link/dialogs/link.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/dialog_ie8.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-mk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/ja.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/poi-ooxml-schemas.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/browsercontrol.css
+[2017-03-09 15:27:45] ADD                     /Messages/contact.txt
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_h5.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/webratio/indicator.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/angry_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/xml.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/dll.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-vi.js
+[2017-03-09 15:27:45] ADD                     /_debug.jsp
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-dbcp.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-nn.js
+[2017-03-09 15:27:45] ADD                     /WRGenericLogin.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/he.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/sr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/templates/templates/default.js
+[2017-03-09 15:27:45] ADD                     /WRResources/activation.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ky.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/tr.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.xsd.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/LICENSE.md
+[2017-03-09 15:27:45] ADD                     /_response_ajax.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/de.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-fo.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/images/sprites_ie6.png
+[2017-03-09 15:27:45] ADD                     /PureStyle_Default.login.jsp
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jcaptcha.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/js.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/bn.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-eu.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-he.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/hi.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_ws.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/script.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/spacer.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/lv.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/kln1.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/he.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/htm.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-pool.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-eu.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.rtx.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/about/dialogs/logo_ckeditor.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/clipboard/dialogs/paste.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-sr.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/ln4.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/dialogs/textarea.js
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/navigate_down_10.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/colordialog/dialogs/colordialog.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/cglib.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-vi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/hidpi/lock-open.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/editor_iequirks.css
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page2.link.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/no.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-ca.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_auth.descr
+[2017-03-09 15:27:45] ADD                     /Resources/PowerIndex.First.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/nb.js
+[2017-03-09 15:27:45] ADD                     /Resources/calendar_disabled.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/about/dialogs/hidpi/logo_ckeditor.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/sl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/sr-latn.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/rdp.gif
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/sort_ascending.png
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page7.descr
+[2017-03-09 15:27:45] ADD                     /Resources/Scroller.Previous.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-rm.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-el.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/jquery-ui-timepicker-addon.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/struts-extras.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/swf.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/uk.js
+[2017-03-09 15:27:45] ADD                     /page3.jsp
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.struts.jar
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/session_vdb.prepare.sql
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-lb.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/en.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-el.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/kiss.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/poi-ooxml.jar
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.units.module.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-th.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/cy.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/lightbulb.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/da.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/sad_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/webratio/wr.debug.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-cs.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/dialog_ie8.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/editor.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/icons_hidpi.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/ca.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.units.content.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/cs.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/embarrassed_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/ButtonArrow.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/poi.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/id.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/ru.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/th.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/exe.gif
+[2017-03-09 15:27:45] ADD                     /page1.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/hu.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ms.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/fla.gif
+[2017-03-09 15:27:45] ADD                     /Resources/calendar.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/scayt/dialogs/options.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/editor_gecko.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/icons.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/liststyle/dialogs/liststyle.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/pagebreak/images/pagebreak.gif
+[2017-03-09 15:27:45] ADD                     /Resources/forceUpdate.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/dialog.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/kiss.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/si.js
+[2017-03-09 15:27:45] ADD                     /wrdefault/js/flotr2.min.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/ca.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/it.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-uk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/webratio/style.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/gif.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/auth-helper.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/avi.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/wsc/dialogs/ciframe.html
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-codec.jar
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/pdfbox.jar
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/fontbox.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/frmfolders.html
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/lv.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/mssu9.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/pdficon.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/nl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-icons_222222_256x240.png
+[2017-03-09 15:27:45] ADD                     /PureStyle/css/pure.min.css
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/tm-extractors.jar
+[2017-03-09 15:27:45] ADD                     /Resources/refresh.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-beanutils-core.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/hidpi/lock.png
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/User.class
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png
+[2017-03-09 15:27:45] ADD                     /Resources/multicheckSelected.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/skin.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/dialogs/select.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/broken_heart.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/shades_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/dialog_iequirks.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/div/dialogs/div.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/pwu1.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/devil_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/es.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/mssu8.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/sv.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jasperreports.jar
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/ln6.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/sr-latn.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/ru.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/htm.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-pt.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/fa.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ja.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_h4.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/icons.png
+[2017-03-09 15:27:45] ADD                     /wr-images/spacer.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/id.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/lt.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/confused_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/png.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/ApplicationResources_en_US.properties
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/editor_ie.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/el.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/fr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/swt.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jackson-core.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/ja.js
+[2017-03-09 15:27:45] ADD                     /wr-css/global.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/fla.gif
+[2017-03-09 15:27:45] ADD                     /WRDefault_Default.expire.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/sk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/dialogs/form.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/xmlbeans.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/regular_smile.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.json.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/readme.md
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/sl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-af.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/el.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/mysql-connector-java.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/gl.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/groovy-all.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/whatchutalkingabout_smile.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/application_vdb.prepare.sql
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/pl.js
+[2017-03-09 15:27:45] ADD                     /Resources/unassign_disabled.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jackson-annotation.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/shades_smile.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/sl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/images/mini.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/zipicon.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/browser.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/xml.gif
+[2017-03-09 15:27:45] ADD                     /wrdefault/images/info.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/xls.gif
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_layout.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/cy.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/about/dialogs/about.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-fr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-ru.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-es.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/fi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ca.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-pl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-ro.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/hu.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/frmresourcetype.html
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.ws.jar
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/jta.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/en-ca.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/dialog_ie.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/editor_ie7.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-en.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/table/dialogs/table.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/mssu6.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/ckeditor.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/nl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-nl.js
+[2017-03-09 15:27:45] ADD                     /Resources/Scroller.First.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/adapters/jquery.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/image/images/noimage.png
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-hr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ar.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/flash/images/placeholder.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/wsc/LICENSE.md
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.units.controlflow.jar
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/dlu1.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/icons_hidpi.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-httpclient.jar
+[2017-03-09 15:27:45] ADD                     /page2.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/sk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ko.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/ppt.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ro.js
+[2017-03-09 15:27:45] ADD                     /.DS_Store
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/FolderOpened.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/FolderOpened32.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/fo.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/bg.js
+[2017-03-09 15:27:45] ADD                     /Resources/create.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/eo.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-net.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/dialog_opera.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/he.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page4.descr
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-chain.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/general.png
+[2017-03-09 15:27:45] ADD                     /wrdefault/images/database_warning.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/activation.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/connectors/uploadtest.html
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_blockquote.png
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/unSelectAll.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/templates/templates/images/template3.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/application_vdb.hibernate.cfg.xml
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/struts-core.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/wsc/dialogs/wsc.css
+[2017-03-09 15:27:45] ADD                     /page8.jsp
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/saxon.jar
+[2017-03-09 15:27:45] ADD                     /Resources/HierarchicalIndex.Next.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/lock.png
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-fi.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/gu.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ja.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/editor_ie8.css
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-kk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/si.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/images/dialog_sides.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-pl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/eo.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-de.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/scayt/LICENSE.md
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-sl.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page7.link.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_h3.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/images/hidpi/close.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/webratio/calendar-utils.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page3.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/templates/dialogs/templates.css
+[2017-03-09 15:27:45] ADD                     /_indexer.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/uk.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/cs.gif
+[2017-03-09 15:27:45] UPDATE          RESTART /WEB-INF/web.xml
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/txt.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/zh-cn.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/specialchar/dialogs/lang/gl.js
+[2017-03-09 15:27:45] ADD                     /Resources/PowerIndex.Previous.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/tongue_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/dialog_iequirks.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/en-au.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_p.png
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-et.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-tr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/dialogs/smiley.js
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-gl.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/webratio/widgets.js
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/mail.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/hr.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/FolderUp.gif
+[2017-03-09 15:27:45] ADD                     /Resources/PowerIndex.Next.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/kama/images/dialog_sides_rtl.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/datamodel.xml
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/conf/RTXLogConfig.properties
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-zh.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/User.java
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-logging.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/teeth_smile.png
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/classes/session_vdb.hibernate.cfg.xml
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/dialog/dialogDefinition.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/en.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/skins/moono/readme.md
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-it.js
+[2017-03-09 15:27:45] ADD                     /wrdefault/css/default.css
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/ku.js
+[2017-03-09 15:27:45] ADD                     /WRResources/docicon.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/preview/preview.html
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/com.webratio.lib.dom4j.jar
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/oln1.descr
+[2017-03-09 15:27:45] ADD                     /wr-images/icons/dialog-min.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/forms/dialogs/checkbox.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/vsd.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-ko.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/tabletools/dialogs/tableCell.js
+[2017-03-09 15:27:45] ADD                     /page7.jsp
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/lightbulb.png
+[2017-03-09 15:27:45] ADD                     /WRResources/timepicker/i18n/jquery-ui-timepicker-pt.js
+[2017-03-09 15:27:45] ADD                     /wrdefault/images/database_error.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/templates/templates/images/template2.gif
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/quartz-all.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/a11yhelp/dialogs/lang/th.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/tounge_smile.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/zip.gif
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/_access.descr
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/eu.js
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/filemanager/browser/default/images/icons/32/exe.gif
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/showblocks/images/block_div.png
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/lang/th.js
+[2017-03-09 15:27:45] ADD                     /WRResources/ajax/jquery-ui/i18n/jquery.ui.datepicker-ro.js
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page8.link.descr
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/bcel.jar
+[2017-03-09 15:27:45] ADD                     /builtin/grid_responsive_24.css
+[2017-03-09 15:27:45] ADD             RESTART /WEB-INF/lib/commons-fileupload.jar
+[2017-03-09 15:27:45] ADD                     /WRResources/CKEditor/plugins/smiley/images/thumbs_down.gif
+[2017-03-09 15:27:45] ADD                     /WEB-INF/descr/page1.link.descr
+[2017-03-09 15:27:45] ADD                     /WEB-INF/classes/com/webratio/webapp/Group.class
+[2017-03-09 15:27:45] DELETE                  /webratio-cloud.png
+[2017-03-09 15:27:45] --------------------------------------------
+[2017-03-09 15:27:45] Stopping application server
+[2017-03-09 15:27:56] Uploading changes (48.8 MB)

@@ -4,27 +4,27 @@
   <Properties>
     <Property name="ajaxActivated">true</Property>
     <Property name="applicationServer">Tomcat</Property>
-    <Property name="cloudDeploy">false</Property>
+    <Property name="cloudDeploy">true</Property>
     <Property name="commonsLibDir">/Applications/WebRatio_Platform_University_Student_Edition_7.2.14.x64bit.MacOSX/WebRatio/plugins/com.webratio.commons.libs_7.2.14.201608091213/lib</Property>
-    <Property name="dbConfigPath">/var/folders/vm/7jvwg65513s65845nc98nmj40000gn/T/WRDBConfig7763014500142983092.xml</Property>
+    <Property name="dbConfigPath">/var/folders/vm/7jvwg65513s65845nc98nmj40000gn/T/WRDBConfig7891731140024795686.xml</Property>
     <Property name="defaultEncoding"></Property>
     <Property name="deployCorePluginDir">/Applications/WebRatio_Platform_University_Student_Edition_7.2.14.x64bit.MacOSX/WebRatio/configuration/org.eclipse.osgi/bundles/49/1/.cp</Property>
-    <Property name="derbySystemHome">/Users/Google Drive/WebRatio/.metadata/.plugins/com.webratio.commons.db/derby</Property>
+    <Property name="derbySystemHome">${app.dir}/WEB-INF/derby</Property>
     <Property name="enterpriseProjectDir"></Property>
-    <Property name="eventSocketPort">60216</Property>
+    <Property name="eventSocketPort">59672</Property>
     <Property name="excludedProjects" type="list"></Property>
-    <Property name="generationTime">201703081620</Property>
+    <Property name="generationTime">201703091527</Property>
     <Property name="helpersPluginDir">/Applications/WebRatio_Platform_University_Student_Edition_7.2.14.x64bit.MacOSX/WebRatio/plugins/com.webratio.generator.helpers_7.2.14.201608091213</Property>
     <Property name="i18nBundleKeysFile" type="file"></Property>
     <Property name="i18nExtraBundleFile" type="file"></Property>
-    <Property name="localDeploy">true</Property>
+    <Property name="localDeploy">false</Property>
     <Property name="lockDir">/Users/Google Drive/WebRatio/MyPage/.Temp~</Property>
-    <Property name="normalizeDescriptors">false</Property>
-    <Property name="outputPath">/Applications/WebRatio_Platform_University_Student_Edition_7.2.14.x64bit.MacOSX/Tomcat/webapps/MyPage</Property>
+    <Property name="normalizeDescriptors">true</Property>
+    <Property name="outputPath">/Applications/WebRatio_Platform_University_Student_Edition_7.2.14.x64bit.MacOSX/WebRatio/deploy/MyPage</Property>
     <Property name="phases">All</Property>
     <Property name="projectDir">/Users/Google Drive/WebRatio/MyPage</Property>
     <Property name="projectName">MyPage</Property>
-    <Property name="projectPath">/var/folders/vm/7jvwg65513s65845nc98nmj40000gn/T/Project7216683769016281445.wr</Property>
+    <Property name="projectPath">/var/folders/vm/7jvwg65513s65845nc98nmj40000gn/T/Project7583811842875411388.wr</Property>
     <Property name="projectType">WEBPROJECT</Property>
     <Property name="rootModuleName"></Property>
     <Property name="uiPluginDir">/Applications/WebRatio_Platform_University_Student_Edition_7.2.14.x64bit.MacOSX/WebRatio/plugins/com.webratio.ide.ui_7.2.14.201608091213</Property>
